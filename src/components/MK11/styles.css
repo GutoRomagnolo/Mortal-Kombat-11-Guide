@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "MK11";
+    src: url("../../assets/fonts/mk11.ttf");
+}
+
+html {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+body {
+    font-family: "MK11";
+    min-height: 100%;
+}
+
+#root {
+    min-height: 100%;
+}
+
+/* New State (Selected char page)*/
+
+.selectedCharPage {
+    background: url("../../assets/background-two.png") no-repeat;
+    background-size: cover;
+}
+
+.charSelectName {
+    font-size: 250%;
+    text-align: center;
+    margin-top: -55px;
+    padding-top: 30px;
+}
+
+h1, h2, h3, button {
+    background: linear-gradient(to bottom, #f8d499 22%,
+    #f8d499 26%, #f8d499 27%,#ffecb3 40%,#ad7b3d 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    color: #fff;
+}
+
+h2 {
+    font-size: 60px;  
+}
+
+h3 {
+    font-size: 40px;
+}
+
+
+.backButton {
+    font-family: "MK11";
+    padding: 15px;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 30px;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+/* end of New State (Selected char page)*/
+
+/* Main Page */
+
+.containerMain {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: url("../../assets/background-three.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.mk11-image {
+    width: 545px;
+    padding: 30px;
+}
+
+.charList{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 50%;
+}
+
+.charCard {
+    padding: 2px;
+    cursor: pointer;
+
+}
+
+.charImage {
+    max-height: 170px;
+    background-color: #2d2d2d;
+}
+
+/* end of Main Page */

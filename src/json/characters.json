@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Shang Tsung",
+    "image": "shangTsung.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Shao Kahn",
+    "image": "shaoKahn.png",
+    "combos": [
+      { 
+        "commands": 112,
+        "damage": 70
+      }
+    ]
+  },
+
+  {
+    "name": "Frost",
+    "image": "frost.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Night Wolf",
+    "image": "nightWolf.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "The Joker",
+    "image": "joker.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Johnny Cage",
+    "image": "johnny.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Sonya",
+    "image": "sonya.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Cassie Cage",
+    "image": "cassie.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Jax Briggs",
+    "image": "jax.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Spawn",
+    "image": "spawn.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      },
+      {
+        "commands": 444,
+        "damage": 65.30
+      }
+    ]
+  },
+
+  {
+    "name": "Scorpion",
+    "image": "scorpion.png",
+    "combos": [
+      { 
+        "type": "BNB combo",
+        "commands": ["one","one","d","b","three"],
+        "damage": 83.50
+      },
+      {
+        "type": "High Damage - 2 bars ",
+        "commands": ["four","d","b","three","four","d","b","three","four","b","f","one"],
+        "damage": 65.30
+      }
+    ]
+  },
+
+  {
+    "name": "Noob Saibot",
+    "image": "noob.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Baraka",
+    "image": "baraka.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Raiden",
+    "image": "raiden.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Jacqui Briggs",
+    "image": "jacqui.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Sub-Zero",
+    "image": "subzero.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kano",
+    "image": "kano.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kabal",
+    "image": "kabal.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Liu Kang",
+    "image": "liuKang.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kitana",
+    "image": "kitana.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kung Lao",
+    "image": "kungLao.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Jade",
+    "image": "jade.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Robocop",
+    "image": "robocop.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Skarlet",
+    "image": "skarlet.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Erron Black",
+    "image": "erronBlack.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "D'Vorah",
+    "image": "dvorah.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kotal Kahn",
+    "image": "kotalKahn.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Sheeva",
+    "image": "sheeva.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Rambo",
+    "image": "rambo.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "The Terminator",
+    "image": "terminator.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Geras",
+    "image": "geras.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Kollector",
+    "image": "kollector.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Syndel",
+    "image": "syndel.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Mileena",
+    "image": "mileena.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Cetrion",
+    "image": "cetrion.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Fujin",
+    "image": "fujin.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  },
+
+  {
+    "name": "Rain",
+    "image": "rain.png",
+    "combos": [
+      { 
+        "commands": 131,
+        "damage": 83.50
+      }
+    ]
+  }
+]
