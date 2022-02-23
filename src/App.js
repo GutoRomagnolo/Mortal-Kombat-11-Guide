@@ -1,11 +1,10 @@
-import './App.css';
 import { Component } from 'react';
-import Dashboard from './components/layout/Dashboard.js';
+import CharCard from './components/MK11/CharCard';
 
 class App extends Component {
   render(){
     return(
-      <Dashboard />
+      <CharCard />
     );
   }
 }
