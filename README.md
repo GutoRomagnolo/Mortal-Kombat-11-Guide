@@ -82,13 +82,13 @@ Entre no diretório do projeto
 Instale as dependências
 
 ```bash
-  npm install
+  yarn install
 ```
 
 Inicie o servidor
 
 ```bash
-  npm  start
+  yarn start
 ```
 
 
