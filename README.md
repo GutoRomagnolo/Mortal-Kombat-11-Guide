@@ -94,22 +94,22 @@ Inicie o servidor
 
 ## Melhorias
 
-- Implementação de uma API
+- Implementação de uma API:
 Com certeza essa será a próxima  melhoria que irei fazer, pois servirá de muito aprendizado criar a minha própria API e administrar as minhas próprias informações.
 
-- Criação de uma identidade visual
+- Criação de uma identidade visual:
 Como o projeto está em sua primeira versão, ainda não desenvolvi uma identidade própria para ele, mas está por vir.
 
-- Refinamento das informações
+- Refinamento das informações:
 Como todas as informações foram pesquisadas e escritas manualmente por mim, com certeza existem melhorias que posso fazer.
 
-- Maior número de combos
+- Maior número de combos:
 Busco, futuramente, trazer realmente todos os melhores combos em diversas situações, como Krushing Blows, combos de canto, setups específicos, entre outros.
 
-- Melhores detalhes sobre os combos
+- Melhores detalhes sobre os combos:
 Atualmente ele apenas mostra os botões e o dano causado, porém precisa mostrar quais suas outras opções de início, em que situação utilizar, qual suas consequências, entre outros.
 
-- Vídeos demonstrativos (serão gravados por autoria própria)
+- Vídeos demonstrativos (serão gravados por autoria própria):
 Como a versão ainda não oferece o máximo para a compreensão, os vídeos, com certeza, são as melhores ferramentas para demonstração dos combos.
 ## Aprendizados
 
